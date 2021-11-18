@@ -15,15 +15,15 @@ app.get('/products', (req, res) => {
     {
       productId: '102',
       price: 150
-    }
+    },
      {
       productId: '103',
       price: 150
-    }
-            {
+    },
+     {
       productId: '104',
       price: 400
-    }
+    },
      {
       productId: '105',
       price: 179
